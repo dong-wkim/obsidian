@@ -1,39 +1,31 @@
+---
+title: Common emergencies
+author: Dong Woon Kim
+date: 03.05.2025
+---
+
 # Common emergencies
 
-Heat illnesses
-
+  Heat illnesses
     Heat cramp
-
     Heat syncope
-
-        Exertional heat syncope
-
-        Non-exertional heat syncope
-
+      Exertional heat syncope
+      Non-exertional heat syncope
     Heat exhaustion
-
     Heat injury
-
-        Heat stroke
-
-            Exertional heat stroke
-
-            Non-exertional heat stroke
-
-Hypothermia *(technically a type of cold injury)*
-
-Cold injuries
-
+      Heat stroke
+        Exertional heat stroke
+        Non-exertional heat stroke
+  Hypothermia
+  Cold injuries
     Pernio
-
     Trench foot
-
     Frostnip
-
     Frostbite
-
-Electrical injuries 
-
+  Electrical injuries
+  Puncture wounds
+  Bites
+  
 ## Heat illnesses
 
 - group of disorders
@@ -44,8 +36,6 @@ Electrical injuries
 ### Heat cramp
 
 - mildest form of heat illness
-
-
 - exercise-associated muscle cramps
 - probably unrelated to temperature
 - treatment:
@@ -228,6 +218,8 @@ Electrical injuries
   - external warming
   -  tissue plasminogen activator (tPA)/heparin *to break down blood clots in the extremities*
   - IV iloprost - vasodilator used in pulmonary arterial hypertension (PAH)
+
+---
 
 ## Electrical injuries
 
