@@ -1,0 +1,6 @@
+{
+  "format": "DD-MM-YYYY",
+  "folder": "0 Inbox/daily_notes",
+  "autorun": true,
+  "template": "3 Resources/templates/Daily Notes"
+}
